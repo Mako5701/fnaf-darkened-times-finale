@@ -1,0 +1,63 @@
+{
+    "name": "FNAF Darkened Times Finale (end of 2024)",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "corgio": "*",
+        "pxt-button-combos": "github:jwunderl/pxt-button-combos#v0.0.24",
+        "controller": "*",
+        "multiplayer": "*",
+        "sevenseg": "*",
+        "settings-blocks": "github:microsoft/pxt-settings-blocks#v1.0.0",
+        "arcade-minimap": "github:microsoft/arcade-minimap#v0.6.1",
+        "Color Fading": "github:jwunderl/pxt-color#v0.2.3",
+        "pxt-circuit-playground-character-icons": "github:adafruit/circuit-playground-character-icons#v0.0.8",
+        "browser-events": "*",
+        "radio-broadcast": "*",
+        "pxt-status-bar": "github:jwunderl/pxt-status-bar#v0.4.2",
+        "arcade-story": "github:microsoft/arcade-storytelling#v1.0.3"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "images.g.jres",
+        "images.g.ts",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v2.0.56",
+        "tag": "v2.0.56",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/2e47d3464cf6ea715ec6e630834bbe15bc2f6feb",
+        "target": "2.0.56",
+        "pxt": "11.3.59",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#FFFFFF",
+        "#FF2121",
+        "#9D06B1",
+        "#A21182",
+        "#FFF609",
+        "#24A339",
+        "#78DC52",
+        "#B9C9B5",
+        "#87F2FF",
+        "#116E30",
+        "#A4839F",
+        "#008509",
+        "#F7AD91",
+        "#91463d",
+        "#000000"
+    ]
+}
